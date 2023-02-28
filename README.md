@@ -1,4 +1,4 @@
-# O laboratório LAB_SAÚDE deseja informatizar o atendimento a seus clientes. O diretor de tecnologia passou as seguintes especificações para a construção de um sistema:
+## O laboratório LAB_SAÚDE deseja informatizar o atendimento a seus clientes. O diretor de tecnologia passou as seguintes especificações para a construção de um sistema:
 
 ## 1. Será necessário efetuar um cadastro dos pacientes onde devem ser informados:
 - Cadastro de Pessoa Física (CPF)
